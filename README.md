@@ -33,3 +33,4 @@ excellent data
 - sampah kompos wajib dikelola desa/kecamatan
 - plastic tax
 - daun pisang, besek
+- zero waste minimarket
