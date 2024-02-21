@@ -30,5 +30,6 @@ excellent data
 - use own container
 - free city water
 - plastic from non food into furniture
+- sampah kompos wajib dikelola desa/kecamatan
 - plastic tax
 - daun pisang, besek
