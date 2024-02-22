@@ -2,7 +2,7 @@
 bismillah, toward sustainable environtment and society
 
 ### General
-excellent data
+excellent data :star:
 
 ### Energy sector
 - Kota mandiri energi (gov pus n gov da) (SCIENCE)
