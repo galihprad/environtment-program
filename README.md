@@ -8,6 +8,7 @@ excellent data :star:
 - Kota mandiri energi (gov pus n gov da) (SCIENCE)
 - massive PLTMH (gov n community) (SCIENCE) :star:
 - PLT ombak (gov n community) (SCIENCE) :star:
+- pltb mikro/house
 - industri wajib PLTS (gov) (GOVSCI)
 - Kompetisi kota mandiri energi hijau (gov) (GOVSCI)
 
