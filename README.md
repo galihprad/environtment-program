@@ -30,7 +30,7 @@ excellent data
 - Plastic free event (community) (SOCIAL)
 - use own container (community) (SOCIAL)
 - free city water (gov n community) (GOVSCI n SOCIAL)
-- plastic from non food into furniture (goc n community) (SOCIAL n SCIENCE)
+- plastic from non food into furniture (gov n community) (SOCIAL n SCIENCE)
 - sampah kompos wajib dikelola desa/kecamatan (gov) (SOCIAL n GOVSCI)
 - plastic tax (gov) (GOVSCI n SOCIAL)
 - daun pisang, besek (gov n community) (SOCIAL N GOVSCI)
