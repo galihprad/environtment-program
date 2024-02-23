@@ -17,6 +17,8 @@ excellent data :star:
 - excellen public transport with direct electricity or hydrogen (gov) (SCIENCE N SOCIAL) :star:
 - excellent bike infrastructure (gov) (SCIENCE N SOCIAL) :star:
 - KRL antar kota (gov) (GOVSCI)
+- halte ada sepedanya
+- ada stasiun sepeda di kampung2
   
 ### Tree sector
 - green urban city competition (gov) (SOCIAL)
